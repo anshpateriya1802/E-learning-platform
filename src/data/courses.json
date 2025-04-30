@@ -1,0 +1,105 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Introduction to Python Programming",
+      "slug": "introduction-to-python-programming",
+      "description": "Master the fundamentals of Python programming language with this comprehensive beginner's course.",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "/courses/python.avif",
+      "url": "https://www.youtube.com/watch?v=kqtD5dpn9C8&pp=ygUgcHl0aG9uIHByb2dyYW1taW5nIGZvciBiZWdpbm5lcnM%3D"
+    },
+    {
+      "id": 2,
+      "title": "Web Development Bootcamp",
+      "slug": "web-development-bootcamp",
+      "description": "Kickstart your journey into web development with this intensive bootcamp covering HTML, CSS, and JavaScript.",
+      "price": 109.99,
+      "instructor": "Jane Smith",
+      "isFeatured": false,
+      "image": "/courses/web-application-development.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Machine Learning Fundamentals",
+      "slug": "machine-learning-fundamentals",
+      "description": "Learn the basics of machine learning algorithms and techniques to analyze and interpret data.",
+      "price": 119.99,
+      "instructor": "Emily Johnson",
+      "isFeatured": true,
+      "image": "/courses/machine-learning-in-healthcare.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Cybersecurity Essentials",
+      "slug": "cybersecurity-essentials",
+      "description": "Master the essential principles and practices of cybersecurity to protect data and systems from cyber threats.",
+      "price": 129.99,
+      "instructor": "Mike Brown",
+      "isFeatured": false,
+      "image": "/courses/cyber.webp"
+    },
+    {
+      "id": 5,
+      "title": "Cloud Computing Basics",
+      "slug": "cloud-computing-basics",
+      "description": "Explore the fundamentals of cloud computing and learn to deploy and manage applications in the cloud.",
+      "price": 139.99,
+      "instructor": "Chris Davis",
+      "isFeatured": false,
+      "image": "/courses/cloud.webp"
+    },
+    {
+      "id": 6,
+      "title": "Introduction to Artificial Intelligence",
+      "slug": "introduction-to-artificial-intelligence",
+      "description": "Gain insight into the principles and applications of artificial intelligence, including machine learning and neural networks.",
+      "price": 149.99,
+      "instructor": "Alex Wilson",
+      "isFeatured": true,
+      "image": "/courses/ai.jpeg"
+    },
+    {
+      "id": 7,
+      "title": "Network Administration Fundamentals",
+      "slug": "network-administration-fundamentals",
+      "description": "Learn the basics of network administration, including network protocols, IP addressing, and troubleshooting techniques.",
+      "price": 159.99,
+      "instructor": "Samantha Miller",
+      "isFeatured": false,
+      "image": "/courses/network.jpg"
+    },
+    {
+      "id": 8,
+      "title": "iOS App Development with Swift",
+      "slug": "ios-app-development-with-swift",
+      "description": "Develop iOS applications using the Swift programming language and learn to create engaging user experiences.",
+      "price": 169.99,
+      "instructor": "Luke Harris",
+      "isFeatured": true,
+      "image": "/courses/ios.png"
+    },
+    {
+      "id": 9,
+      "title": "Android Development for Beginners",
+      "slug": "android-development-for-beginners",
+      "description": "Start building Android applications from scratch with this beginner-friendly course on Android development.",
+      "price": 179.99,
+      "instructor": "Grace Lee",
+      "isFeatured": false,
+      "image": "/courses/anroid.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Full Stack Web Development",
+      "slug": "full-stack-web-development",
+      "description": "Become proficient in both front-end and back-end web development with this comprehensive full stack course.",
+      "price": 189.99,
+      "instructor": "Ethan Moore",
+      "isFeatured": true,
+      "image": "/courses/full.jpg"
+    }
+  ]
+}
